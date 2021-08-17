@@ -8,3 +8,6 @@ Projects from the Python Course at The Tech Academy
 ## Subheader for Git Tutorial
 Generic Text for Git Tutorial
 Another mod bc the first was not recognized
+
+## Test-42
+1. Learn branching by creating this test branch and using it to update the readme
